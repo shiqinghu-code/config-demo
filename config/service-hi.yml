@@ -1,5 +1,5 @@
 server:
-  port: 6081
+  port: 6087
 spring:
   application:
     name: service-hi
